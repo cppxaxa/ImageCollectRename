@@ -1,0 +1,10 @@
+F:\Projects\ImageCollectRename\bin\Debug\ImageCollectRename.exe.config
+F:\Projects\ImageCollectRename\bin\Debug\ImageCollectRename.exe
+F:\Projects\ImageCollectRename\bin\Debug\ImageCollectRename.pdb
+F:\Projects\ImageCollectRename\ImageCollectRename\obj\Debug\ImageCollectRename.csprojAssemblyReference.cache
+F:\Projects\ImageCollectRename\ImageCollectRename\obj\Debug\ImageCollectRename.ICRUI.resources
+F:\Projects\ImageCollectRename\ImageCollectRename\obj\Debug\ImageCollectRename.Properties.Resources.resources
+F:\Projects\ImageCollectRename\ImageCollectRename\obj\Debug\ImageCollectRename.csproj.GenerateResource.cache
+F:\Projects\ImageCollectRename\ImageCollectRename\obj\Debug\ImageCollectRename.csproj.CoreCompileInputs.cache
+F:\Projects\ImageCollectRename\ImageCollectRename\obj\Debug\ImageCollectRename.exe
+F:\Projects\ImageCollectRename\ImageCollectRename\obj\Debug\ImageCollectRename.pdb
